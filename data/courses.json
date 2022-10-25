@@ -1,0 +1,123 @@
+[
+    {
+        "id": "01",
+        "name": "Web Development",
+        "ratings": 4.5,
+        "review":"20.3k reviews",
+        "price": 30,
+        "img":"",
+        "duration":"3-4 Month",
+        "level":"Beginner",
+        "instructor":{
+            "instructor_name":"Hasan Al Banna",
+            "instructor_img": "",
+             "taken-courses": 3,
+             "learners": "40.2k"
+        },
+
+        "skills":["html","css","javascript"],
+        "description":"this course will let you learn web development course within 3-4 month. this is a beginner level course. our awesome instructor have the experiences to teach 40.2k students successfully ."
+
+    },
+    {
+        "id": "02",
+        "name": "React js & Redux",
+        "ratings": 4.0,
+        "review":"15.3k reviews",
+        "price": 40,
+        "img":"",
+        "duration":"3-5 Month",
+        "level":"intermediate",
+        "instructor":{
+            "instructor_name":"Hasan Al Banna",
+            "instructor_img": "",
+             "taken-courses": 3,
+             "learners": "40.2k"
+        },
+
+        "skills":["Redux","React js hooks","Routing"],
+        "description":"this course will let you learn react js and redux within 3-5 month. this is a intermediate level course. our awesome instructor have the experiences to teach 40.2k students successfully ."
+
+    },
+    {
+        "id": "03",
+        "name": "Networking Fundamental",
+        "ratings": 4.8,
+        "review":"20.3k reviews",
+        "price": 35,
+        "img":"",
+        "duration":"5-6 Month",
+        "level":"Beginner",
+        "instructor":{
+            "instructor_name":"Kazi Mamun",
+            "instructor_img": "",
+             "taken-courses": 2,
+             "learners": "10.2k"
+        },
+
+        "skills":["Basic networking concept","internat protocol","packet tracer"],
+        "description":"this course will let you build  a solid concept about networking within 5-6 month. this is a beginner level course. our awesome instructor have the experiences to teach 10.2k students successfully ."
+
+    },
+    
+    {
+        "id": "04",
+        "name": "python for machine learning",
+        "ratings": 4.5,
+        "review":"20.3k reviews",
+        "price": 42,
+        "img":"",
+        "duration":"5-6 Month",
+        "level":"Beginner",
+        "instructor":{
+            "instructor_name":"Asraful Islam",
+            "instructor_img": "",
+             "taken-courses": 3,
+             "learners": "23.3k"
+        },
+
+        "skills":["python","basic ML algorithm","plot graphs"],
+        "description":"this course will let you learn python, specifically for ML, within 5-6 month. this is a beginner level course. our awesome instructor have the experiences to teach 23.3k students successfully ."
+
+    },
+    {
+        "id": "05",
+        "name": "Big Data & Data Mining",
+        "ratings": 4.5,
+        "review":"20.3k reviews",
+        "price": 30,
+        "img":"",
+        "duration":"8-10 Month",
+        "level":"Beginner",
+        "instructor":{
+            "instructor_name":"Asraful Islam",
+            "instructor_img": "",
+             "taken-courses": 3,
+             "learners": "23.3k"
+        },
+
+        "skills":["Data Mining","Power BI","Big Data"],
+        "description":"this course will let you learn Big Data and Data Mining course within 3-4 month. this is a beginner level course. our awesome instructor have the experiences to teach 40.2k students successfully ."
+
+    },
+    {
+        "id": "06",
+        "name": "Web Development for backend",
+        "ratings": 4.3,
+        "review":"20.3k reviews",
+        "price": 60,
+        "img":"",
+        "duration":"6-7 Month",
+        "level":"intermediate",
+        "instructor":{
+            "instructor_name":"Hasan Al Banna",
+            "instructor_img": "",
+             "taken-courses": 3,
+             "learners": "40.2k"
+        },
+
+        "skills":["Mongo DB","Nod js","NoSql"],
+        "description":"this course will let you learn web development for backend side within 6-7 month. this is a intermediate level course. our awesome instructor have the experiences to teach 40.2k students successfully ."
+
+    }
+]
