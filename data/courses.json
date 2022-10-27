@@ -5,7 +5,7 @@
         "ratings": 4.5,
         "review":"20.3k reviews",
         "price": 30,
-        "img":"",
+        "img":"https://www.web-development-institute.com/wp-content/uploads/2017/12/The-Difference-Between-HTML-CSS-and-JavaScript-12.jpg",
         "duration":"3-4 Month",
         "level":"Beginner",
         "instructor":{
@@ -25,7 +25,7 @@
         "ratings": 4.0,
         "review":"15.3k reviews",
         "price": 40,
-        "img":"",
+        "img":"https://waftengine.org/public/blog/1B5EE4D5D773F8A-RR.jpg",
         "duration":"3-5 Month",
         "level":"intermediate",
         "instructor":{
@@ -45,7 +45,7 @@
         "ratings": 4.8,
         "review":"20.3k reviews",
         "price": 35,
-        "img":"",
+        "img":"https://www.exploreinsiders.com/wp-content/uploads/2020/11/network.jpg",
         "duration":"5-6 Month",
         "level":"Beginner",
         "instructor":{
@@ -66,7 +66,7 @@
         "ratings": 4.5,
         "review":"20.3k reviews",
         "price": 42,
-        "img":"",
+        "img":"https://www.twine.net/blog/wordpress/wp-content/uploads/2022/07/Screenshot-2022-07-19-at-11.17.55.png",
         "duration":"5-6 Month",
         "level":"Beginner",
         "instructor":{
@@ -86,7 +86,7 @@
         "ratings": 4.5,
         "review":"20.3k reviews",
         "price": 30,
-        "img":"",
+        "img":"https://www.whizlabs.com/blog/wp-content/uploads/2021/11/Data-Mining-Vs-Big-Data.png",
         "duration":"8-10 Month",
         "level":"Beginner",
         "instructor":{
@@ -106,7 +106,7 @@
         "ratings": 4.3,
         "review":"20.3k reviews",
         "price": 60,
-        "img":"",
+        "img":"https://codegenes.net/wp-content/uploads/2020/07/nodeandmongo-min.png",
         "duration":"6-7 Month",
         "level":"intermediate",
         "instructor":{
