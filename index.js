@@ -21,6 +21,13 @@ app.get('/course-details/:id',(req, res)=>{
     console.log(courseDetails);
     res.send(courseDetails);
 })
+
+app.get('/checkout/:id',(req, res)=>{
+    const id = req.params.id;
+    const courseCheckOut = courses.find(c=> c.id == id);
+    res.send(courseCheckOut);
+})
+
 app.listen(port, ()=>{
     console.log('IT-skills-for-all server is running on port', port)
 })
